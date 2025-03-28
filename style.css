@@ -1,0 +1,32 @@
+/* Applying different font */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+/* Styling a heading using class selector */
+.title {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+/* Styling an image */
+.styled-image {
+    width: 300px;
+    border: 5px solid #555;
+    margin: 10px auto;
+    display: block;
+    border-radius: 10px;
+}
+
+/* Styling a div using ID selector */
+#content-box {
+    background-color: #fff;
+    border: 2px solid #000;
+    padding: 20px;
+    margin: 20px auto;
+    width: 50%;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+}
